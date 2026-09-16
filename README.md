@@ -64,4 +64,4 @@
   <a href="https://azsa-nrd.my.id"><img src="https://img.shields.io/badge/Portfolio-4B5320?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B5320,100:1C1C1C&height=120&section=footer" width="50%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B5320,100:1C1C1C&height=120&section=footer" width="100%" alt="footer" />
