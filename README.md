@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:4B5320&height=200&section=header&text=Azsa%20Nurwahyudi&fontSize=48&fontColor=E8DCC4&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Web%20Developer&descAlignY=56&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1C,100:4B5320&height=200&section=header&text=Azsa%20Nurwahyudi&fontSize=48&fontColor=E8DCC4&animation=fadeIn&fontAlignY=36&desc=Web%20Developer&descAlignY=56&descSize=18" width="100%" alt="header" />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C9B79C&center=true&vCenter=true&width=600&lines=Building+for+the+web+with+React+%26+Next.js;TypeScript+on+the+front%2C+Node.js+on+the+back;Always+curious+about+what+lies+beyond+the+walls" alt="Typing SVG" /></a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=azsanrd&label=Profile%20views&color=4B5320&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AzsaNrD&label=Profile%20views&color=4B5320&style=flat" alt="profile views" />
   <a href="https://azsa-nrd.my.id"><img src="https://img.shields.io/badge/Portfolio-azsa--nrd.my.id-7A5C3A?style=flat" alt="portfolio" /></a>
 </p>
 
@@ -16,7 +16,7 @@
 <img align="right" width="260" src="https://i.pinimg.com/originals/4c/30/93/4c30931e71a0e93b250962d41fc6bf7f.gif" alt="scouting gif" />
 
 - 🎓 Information Systems graduate from Universitas Gunadarma
-- 💻 Fullstack web developer, mostly working with **React, Next.js, and TypeScript**
+- 💻 I build web apps with **React, Next.js, and TypeScript**
 - 🗄️ Comfortable handling data with **PostgreSQL** and **MongoDB**
 - 🎨 I like sketching the interface in **Figma** before writing the first line of code
 - 🤖 Explored machine learning through the Asah by Dicoding program
